@@ -21,4 +21,66 @@
       </Content>
     </ItemGroup>
 
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\.gitignore" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\asset-manifest.json" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\favicon.ico" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\img\Grecian.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\img\idzhipt.jpeg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\img\maldiv.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\img\OAE.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\img\seljalandsfoss-1751463.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\img\shriLank.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\img\SriLanka.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\img\Turk.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\index.html" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\logo192.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\logo512.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\manifest.json" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\robots.txt" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\static\css\main.4af9e28b.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\static\css\main.4af9e28b.css.map" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\static\js\main.054ba8f3.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\static\js\main.054ba8f3.js.LICENSE.txt" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\static\js\main.054ba8f3.js.map" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\build\static\media\seljalandsfoss-1751463.f3e3be52c84e08a38efe.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\package-lock.json" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\package.json" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\public\favicon.ico" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\public\img\Grecian.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\public\img\idzhipt.jpeg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\public\img\maldiv.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\public\img\OAE.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\public\img\seljalandsfoss-1751463.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\public\img\shriLank.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\public\img\SriLanka.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\public\img\Turk.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\public\index.html" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\public\logo192.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\public\logo512.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\public\manifest.json" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\public\robots.txt" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\README.md" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\src\ChangeTour.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\src\Golovna.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\src\index.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\src\Layout.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\src\Main.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\src\Menu.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\src\ModalAut.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\src\PointsSystem.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\src\root.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\src\style\changeTour.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\src\style\main.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\src\style\menu.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\src\style\modal.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\src\style\pointSystem.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\src\style\tourCard.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\ReactDiplom\tourism\src\TourCart.js" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Include="wwwroot\index.html" />
+    </ItemGroup>
+
 </Project>

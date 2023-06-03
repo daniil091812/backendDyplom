@@ -14,7 +14,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddSingleton(new MongoClient("mongodb://root:root@localhost:27017"));
+builder.Services.AddSingleton(new MongoClient("mongodb://root:Penis_Hilton@161.35.195.124:27017"));
 
 
 var app = builder.Build();

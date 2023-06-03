@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4af9e28b.css",
+    "main.js": "/static/js/main.054ba8f3.js",
+    "static/media/seljalandsfoss-1751463.jpg": "/static/media/seljalandsfoss-1751463.f3e3be52c84e08a38efe.jpg",
+    "index.html": "/index.html",
+    "main.4af9e28b.css.map": "/static/css/main.4af9e28b.css.map",
+    "main.054ba8f3.js.map": "/static/js/main.054ba8f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4af9e28b.css",
+    "static/js/main.054ba8f3.js"
+  ]
+}
